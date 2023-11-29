@@ -1,7 +1,6 @@
 ABOUT
-Moscow Estate analysis
+Moscow Estate analysis + price prediction
 
 COLLECTING DATA STILL IN PROCESS(parsing cian for data)
 
 
-BEST R^2 SCORE: 0.9999989979704641 WITH ElasticNetCV
